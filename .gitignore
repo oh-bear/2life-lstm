@@ -1,0 +1,12 @@
+# logs
+logs/*
+
+# pyc
+*.pyc
+
+# data model
+app/**/*
+
+# python venv
+venv*/*
+

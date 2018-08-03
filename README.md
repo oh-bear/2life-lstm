@@ -1,10 +1,10 @@
 ### 算法服务接口文档
 
 #### API
-- 接口：`http://118.24.154.90/ner`
+- 接口：`http://server-host/ner`
 - 方式：POST
 - 参数：content <string>
-- 相应：
+- 响应：
 
 	```
 	{
