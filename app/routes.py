@@ -30,6 +30,6 @@ def ner():
             app.logger.error(e)
             code, message = 503, 'LSTM failed'
     else:
-        code, message = 400, '"content" required'
+        code, message = 400, 'content required'
 
     return jsonify(code=code, message=message, data=data)
