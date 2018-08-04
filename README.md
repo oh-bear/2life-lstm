@@ -21,7 +21,9 @@
 			}
 	    },
 	    "message": "success"
-	}	```
+	}	
+	```
+	> code: 0 -> success | 401 -> Unauthorized | 503 -> LSTM failed | 400 -> "content" required 	
 
 #### 算法接口
 

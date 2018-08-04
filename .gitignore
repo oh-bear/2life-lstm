@@ -9,4 +9,7 @@ app/**/*
 
 # python venv
 venv*/*
+.python*
 
+# config file .env
+.env
